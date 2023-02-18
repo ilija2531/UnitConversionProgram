@@ -1,0 +1,40 @@
+body{
+    background-color: tomato;
+    font-family: 'PT Mono', monospace;
+}
+
+
+
+label{
+    font-size: x-large;
+
+}
+
+#kon{
+    border: 6px solid;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 10px;
+    border-color:darkslategrey;
+
+}
+
+
+
+#vrednost{
+    font-size: 25px;
+    border: 8px; 
+    border-radius: 5px;
+    border-color: dimgrey;
+    border-style:double;
+}
+
+#konv{
+    font-size: 30px;
+    border: 10px;
+    border-style:ridge ;
+    border-color:darkgoldenrod;
+    background-color:darkgrey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
